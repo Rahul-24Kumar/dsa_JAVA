@@ -7,7 +7,6 @@ class LongestSubarrayWithSumK {
         int currentSum = 0;
         int start = 0;
 
-
         for (int end =0; end<arr.length; end++) {
 
             currentSum += arr[end];
