@@ -1,5 +1,5 @@
-
 public class RotationCount {
+    
     public static int RotationCount (int[] arr) {
         int left = 0;
         int right = arr.length -1;
