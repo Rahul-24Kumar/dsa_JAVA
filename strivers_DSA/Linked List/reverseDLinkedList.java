@@ -13,7 +13,7 @@ public class reverseDLinkedList {
         }
 
         public Node(int data1) {
-            data = data1;
+            data = data1;d
             next = null;
             back = null;
         }
